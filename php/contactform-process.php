@@ -26,7 +26,7 @@ if (empty($_POST["terms"])) {
 }
 
 $EmailTo = "yourname@domain.com";
-$Subject = "New message from Evolo landing page";
+$Subject = "New Message from Data Craft Analytics Customer";
 
 // prepare email body text
 $Body = "";
